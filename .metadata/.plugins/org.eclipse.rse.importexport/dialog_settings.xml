@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="RemoteImportWizard">
+		<item value="true" key="RemoteImportWizardPage1.STORE_CREATE_DESCRIPTION_FILE_ID"/>
+		<item value="false" key="RemoteImportWizardPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
+		<item value="/Edgbrains/Edgbrains.rimpfd" key="RemoteImportWizardPage1.STORE_DESCRIPTION_FILE_NAME_ID"/>
+		<item value="false" key="RemoteImportWizardPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID"/>
+		<item value="false" key="RemoteImportWizardPage1.STORE_REVIEW_SYNCHRONIZE_ID"/>
+		<list key="RemoteImportWizardPage1.STORE_SOURCE_NAMES_ID">
+			<item value="MacBook-Pro-de-Ruben-Garcia-Alvarez.Local:/Users/rubenruvitoapple/IDEs/springsource/workspace-sts/Edgbrains"/>
+		</list>
+	</section>
+</section>
